@@ -5,6 +5,8 @@
   
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/fe5b5fdd407444e265e9d86f17332a0e/75d24c665e7a6190-4b/s500x750/ac1366f37d5b2caaec7ce7bda7a0f2519edf555f.gifv"> 
   
+<a href="https://www.reddit.com/user/kobayashiop" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>  
+  
   ##
   
 <div style="display: inline_block"><br>
